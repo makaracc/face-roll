@@ -8,6 +8,7 @@ function App() {
   return (
     <React.Fragment>
       <video id="video" src="" />
+      <p>Omg</p>
     </React.Fragment>
   );
 }
