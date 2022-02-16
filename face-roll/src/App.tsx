@@ -5,7 +5,11 @@ import "./App.css";
 function App() {
   const [count, setCount] = useState(0);
 
-  return <React.Fragment></React.Fragment>;
+  return (
+    <React.Fragment>
+      <video id="video" src="" />
+    </React.Fragment>
+  );
 }
 
 export default App;
